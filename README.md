@@ -57,9 +57,7 @@ playwright install chromium
 
 4. Configure environment variables:
 
-```powershell
-copy .env.example .env
-```
+Create .env file.
 
 Set `GEMINI_API_KEY` in .env
 
